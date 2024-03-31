@@ -1,0 +1,56 @@
+[
+    {
+        "_comment1": ["score", "rating"],
+        "result": [869, 3],
+        "words": [
+            ["राष्ट्रपति", "President", "President", "Vice President", "Chif Minister", "Prime Minister"],
+            ["मुख्यमंत्री", "Chif Minister", "Minister", "Chif Minister", "chief", "Prime Minister"],
+            ["सावधान", "Careful", "Careful", "diverse", "Care", "Humble"],
+            ["उम्मीद", "Hope", "Doer", "Kind", "Hope", "Bold"]
+        ]
+    },
+    {
+        "result": [879, 1],
+        "words": [
+            ["चारपाई", "Doss", "Flour", "Pit", "Plaza", "Doss"],
+            ["के बारे में", "About", "For About", "About", "Se About", "He About"],
+            ["संबंधी", "Relative", "Relative", "Pach", "Revenge", "Godly"],
+            ["स्वीकार करना", "Accept", "Access", "Adapt", "Critic", "Accept"],
+            ["नाटक", "Drama", "Highlight", "Drama", "Iron", "Wreck"],
+            ["बर्बाद", "Wrecked", "Rush", "Game", "Disturbance", "Wrecked"],
+            ["संस्करण", "Edition", "sleeve", "Edition", "bat", "declaration"],
+            ["नियोक्ता", "employer", "truth", "battery", "employer", "affect"],
+            ["मुठभेड़", "encounter", "convention", "jurisdiction", "radio", "encounter"],
+            ["समाप्त", "end", "debut", "end", "fortune", "tolerant"],
+            ["खाली", "empty", "end", "girlfriend", "empty", "watch"],
+            ["दुश्मन", "enemy", "axis", "exchange", "level", "enemy"],
+            ["प्रवर्तन", "enforcement", "convention", "demand", "enforcement", "neglect"],
+            ["खाली", "empty", "clinic", "empty", "craft", "idea"],
+            ["यन्त्र", "engine", "decay", "teacher", "campaign", "engine"],
+            ["काम पर लगाना", "engage", "present", "engage", "problem", "stake"], 
+            ["सुधारना", "enhance", "title", "dignity", "profile", "enhance"],
+            ["का आनंद लें", "enjoy", "profile", "enjoy", "medium", "positive"],
+            ["विशाल", "enormous", "deter", "courtesy", "enormous", "fountain"],
+            ["पर्याप्त", "enough", "comedy", "value", "census", "enough"],
+            ["सुनिश्चित करना", "ensure", "berry", "ensure", "grandmother", "inspire"],
+            ["उद्यम", "enterprise", "kick", "mastermind", "enterprise", "lid"],
+            ["मनोरंजन", "entertainment", "pioneer", "explain", "earthflax", "entertainment"],
+            ["संपूर्ण", "entire", "swarm", "entire", "ex", "authorise"],
+            ["पूरी तरह से", "entirely", "casualty", "tourist", "entirely", "pit"],
+            ["प्रवेश", "entrance", "critic", "clear", "entrance", "clear"],
+            ["वातावरण", "environment", "misery", "occupation", "acceptance", "environment"],
+            ["पर्यावरण", "environmental", "threaten", "environmental", "asylum", "nonremittal"],
+            ["प्रकरण", "episode", "enfix", "memorandum", "steward", "episode"],
+            ["बराबरी का", "equal", "access", "equal", "discriminate", "conception"],
+            ["समान रूप से", "equally", "machinery", "momentum", "equally", "hate"],
+            ["समानता", "equate", "plan", "disclose", "equate", "flower"]
+        ]
+    },
+    {
+        "words": [
+            ["चारपाई", "Doss", "Flour", "Pit", "Plaza", "Doss"],
+            ["के बारे में", "About", "For About", "About", "Se About", "He About"],
+            ["संबंधी", "Relative", "Relative", "Pach", "Revenge", "Godly"]
+        ]
+    }
+]
